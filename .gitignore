@@ -1,0 +1,16 @@
+*.sln
+*.csproj
+*.log
+/Temp/
+/Library/
+/Logs/
+/UserSettings/
+/Build/
+/Builds/
+/.vs/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
